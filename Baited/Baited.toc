@@ -1,0 +1,10 @@
+## Interface: 70000
+## Title: Baited
+## Notes: <Reddit Gamer Girls> exclusive Addon.
+## Author: Odors, Waifu, Harbingtarbl
+## SavedVariables: BAITEDDB
+## SavedVariablesPerCharacter: BAITEDSHOW
+## Version: 6.1
+Baited.lua
+## Baited Config.lua
+Baited_data.xml
